@@ -1,11 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>/*css code to change backround*/
-body {
-  backround-color: #EEEEE;
-}</style>
-</head>
 <body>
 	<center> 
 	<?php echo("PHP BROWSER"); ?>
