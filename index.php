@@ -3,11 +3,19 @@
 <body>
 
 
-<center>PHP NET</center>
+<center>PHP NET
 
-<?php
+	<form action="index.php" method="get">
+		<input type="text" name="browse">
+		<input type="submit">
+	</form>
+	</center>
 
-?> 
+	<?php
+	 $newURL = $_GET["browse"];
+	 header('Location: '.$newURL); 
+	 exit();
+	?> 
 
 </body>
 </html>
