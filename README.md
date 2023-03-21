@@ -1,3 +1,3 @@
 # PHP_browser
-### A simple but afective browser in php 
+### A simple but affective browser in php 
 That is all I can say.
