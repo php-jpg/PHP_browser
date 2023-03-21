@@ -18,6 +18,7 @@
     function func()
     {
     $newURL = $_GET["browse"];
+    echo("please search on google.com until project is finished.");
     echo '<script type="text/javascript">
            window.location = "http://www.google.com/"
       </script>';
