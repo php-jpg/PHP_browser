@@ -1,4 +1,4 @@
 # PHP_browser
 ### A simple but effective browser in php 
-That is all I can say.
-# !!!STILL IN PROGRES!!!
+This browser can be hacked if uploaded to proxy or a web server with no protection.
+# !!!STILL IN PROGRESS!!!
